@@ -3,6 +3,8 @@ import { User, Scale, ShieldCheck, ShieldAlert, BookOpen, Copy, Check, ExternalL
 import { ChatMessage as ChatMessageType, Citation } from '../../types/rag';
 import Badge from '../common/Badge';
 
+import MarkdownRenderer from '../common/MarkdownRenderer';
+
 interface ChatMessageProps {
   message: ChatMessageType;
   onOpenCitation: (citation: Citation, allCitations: Citation[]) => void;
@@ -157,8 +159,12 @@ export const ChatMessage: React.FC<ChatMessageProps> = ({ message, onOpenCitatio
           ) : null}
 
           {/* Visually Dominant Primary Legal Answer Content */}
-          <div className="text-sm text-slate-200 leading-relaxed font-sans space-y-3 whitespace-pre-wrap selection:bg-[#5227FF]">
-            {displayContent}
+          <div className="text-sm text-slate-200 leading-relaxed font-sans space-y-3 selection:bg-[#5227FF]">
+            <MarkdownRenderer
+              content={displayContent}
+              citations={citationsList}
+              onOpenCitation={onOpenCitation}
+            />
           </div>
 
           {/* Grounded Citations & Sources Section (Count equals actual citations array length) */}
