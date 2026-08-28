@@ -1,0 +1,9 @@
+model_list:
+  - model_name: glm-4.7-flash
+    litellm_params:
+      model: openai/glm-4.7-flash:latest
+      api_base: http://115.247.148.78:3002/api
+      api_key: os.environ/ANTHROPIC_AUTH_TOKEN
+
+general_settings:
+  master_key: sk-local-claude

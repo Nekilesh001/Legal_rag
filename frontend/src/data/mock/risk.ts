@@ -1,0 +1,48 @@
+import { RiskFinding } from '../../types';
+
+export const MOCK_RISK_FINDINGS: RiskFinding[] = [
+  {
+    id: 'rf_01',
+    contractId: 'cnt_005',
+    contractTitle: 'SaaS Vendor & SLA Services Subcontract',
+    clauseName: 'Indemnification & Breach of Warranty (Clause 14.2)',
+    severity: 'High',
+    category: 'Breach / Remedy',
+    excerpt: 'Vendor shall not be liable for direct or indirect damages exceeding INR 50,000 under any circumstances, notwithstanding any breach of warranty under the Sale of Goods Act.',
+    riskDescription: 'Severe liability cap creates unmitigated operational financial risk upon breach of statutory warranties.',
+    recommendation: 'Align clause with Section 59 of the Sale of Goods Act, 1930 and mandate a minimum 2x total contract value liability floor.',
+  },
+  {
+    id: 'rf_02',
+    contractId: 'cnt_001',
+    contractTitle: 'Master Enterprise Software Agreement',
+    clauseName: 'Unilateral Termination for Convenience (Clause 8.4)',
+    severity: 'High',
+    category: 'Termination',
+    excerpt: 'Licensor reserves the right to terminate this Agreement immediately without cause upon 3 business days written notice.',
+    riskDescription: 'Unbalanced termination window poses catastrophic business continuity risk for mission-critical IT infrastructure.',
+    recommendation: 'Require mutual 90-day notice period with wind-down transition assistance covenants.',
+  },
+  {
+    id: 'rf_03',
+    contractId: 'cnt_003',
+    contractTitle: 'Executive Employment Agreement — VP Engineering',
+    clauseName: 'Non-Compete Restrictive Covenant (Clause 11.1)',
+    severity: 'Medium',
+    category: 'Employment / Restraint',
+    excerpt: 'Employee agrees not to engage with any technology business in Asia for 24 months post-employment.',
+    riskDescription: 'Clause may be unenforceable under Section 27 of the Indian Contract Act, 1872 as restraint of trade.',
+    recommendation: 'Replace non-compete with enforceable Non-Solicitation and Confidentiality protection covenants.',
+  },
+  {
+    id: 'rf_04',
+    contractId: 'cnt_004',
+    contractTitle: 'Commercial Office Space Premises Lease Deed',
+    clauseName: 'Forfeiture & Security Deposit Return (Clause 6.3)',
+    severity: 'Low',
+    category: 'Lease',
+    excerpt: 'Lessor may retain security deposit for 180 days post possession handover for audit.',
+    riskDescription: 'Delayed deposit return window creates short-term cash flow friction.',
+    recommendation: 'Reduce security deposit reconciliation period to 30 days upon joint premises audit.',
+  },
+];

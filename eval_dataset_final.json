@@ -1,0 +1,1511 @@
+[
+  {
+    "query_id": "Q_001",
+    "query_type": "exact_legal_lookup",
+    "query": "What does Section 73 of the Indian Contract Act say?",
+    "expected_evidence_chunks": [
+      "chk_6c2b46f4b321"
+    ],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "ICA Section 73 compensation"
+  },
+  {
+    "query_id": "Q_002",
+    "query_type": "exact_legal_lookup",
+    "query": "What does Section 10 of the Indian Contract Act state regarding valid contracts?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "ICA Section 10 valid contracts"
+  },
+  {
+    "query_id": "Q_003",
+    "query_type": "exact_legal_lookup",
+    "query": "What is provided under Section 27 of the Indian Contract Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "ICA Section 27 restraint of trade"
+  },
+  {
+    "query_id": "Q_004",
+    "query_type": "exact_legal_lookup",
+    "query": "What does Section 56 of the Indian Contract Act cover regarding frustration?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "ICA Section 56 frustration"
+  },
+  {
+    "query_id": "Q_005",
+    "query_type": "exact_legal_lookup",
+    "query": "What does Section 54 of the Transfer of Property Act define?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "TPA Section 54 sale of immovable property"
+  },
+  {
+    "query_id": "Q_006",
+    "query_type": "exact_legal_lookup",
+    "query": "What is specified under Section 3 of the Limitation Act, 1963?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1963-36"
+    ],
+    "expected_abstention": false,
+    "description": "Limitation Act Sec 3 bar of limitation"
+  },
+  {
+    "query_id": "Q_007",
+    "query_type": "exact_legal_lookup",
+    "query": "What does Section 73 of the Central Goods and Services Tax Act specify?",
+    "expected_evidence_chunks": [
+      "chk_b211f53d08cb"
+    ],
+    "expected_documents": [
+      "a2017-12"
+    ],
+    "expected_abstention": false,
+    "description": "CGST Act Sec 73 determination of tax"
+  },
+  {
+    "query_id": "Q_008",
+    "query_type": "exact_legal_lookup",
+    "query": "What rights are conferred under Section 48 of the Patents Act, 1970?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1970-39"
+    ],
+    "expected_abstention": false,
+    "description": "Patents Act Sec 48 patentee rights"
+  },
+  {
+    "query_id": "Q_009",
+    "query_type": "exact_legal_lookup",
+    "query": "What does Section 3 of the Competition Act, 2002 prohibit?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a2003-12"
+    ],
+    "expected_abstention": false,
+    "description": "Competition Act Sec 3 anti-competitive agreements"
+  },
+  {
+    "query_id": "Q_010",
+    "query_type": "exact_legal_lookup",
+    "query": "What does Section 41 of the Tamil Nadu Shops and Establishments Act state?",
+    "expected_evidence_chunks": [
+      "chk_56b1160532cc"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "TN Shops Act Sec 41 dismissal notice"
+  },
+  {
+    "query_id": "Q_011",
+    "query_type": "section_subsection_lookup",
+    "query": "What does Section 41(1) of the Tamil Nadu Shops Act provide regarding notice?",
+    "expected_evidence_chunks": [
+      "chk_56b1160532cc"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "TN Shops Act Sec 41(1)"
+  },
+  {
+    "query_id": "Q_012",
+    "query_type": "section_subsection_lookup",
+    "query": "What does Section 59(1) of the Sale of Goods Act specify for breach of warranty?",
+    "expected_evidence_chunks": [
+      "chk_01051fb4680e"
+    ],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Sale of Goods Act Sec 59(1)"
+  },
+  {
+    "query_id": "Q_013",
+    "query_type": "section_subsection_lookup",
+    "query": "What is stated in Section 54(2) of the Sale of Goods Act regarding unpaid seller resale?",
+    "expected_evidence_chunks": [
+      "chk_e6886e9c6c83"
+    ],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Sale of Goods Act Sec 54(2)"
+  },
+  {
+    "query_id": "Q_014",
+    "query_type": "section_subsection_lookup",
+    "query": "What does Section 2(h) of the Indian Contract Act define?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "ICA Sec 2(h) contract definition"
+  },
+  {
+    "query_id": "Q_015",
+    "query_type": "section_subsection_lookup",
+    "query": "What does Section 2(d) of the Indian Contract Act define consideration as?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "ICA Sec 2(d) consideration definition"
+  },
+  {
+    "query_id": "Q_016",
+    "query_type": "section_subsection_lookup",
+    "query": "What does Section 73(1) of CGST Act state regarding tax determination?",
+    "expected_evidence_chunks": [
+      "chk_e63c3a9b924c"
+    ],
+    "expected_documents": [
+      "a2017-12"
+    ],
+    "expected_abstention": false,
+    "description": "CGST Act Sec 73(1)"
+  },
+  {
+    "query_id": "Q_017",
+    "query_type": "section_subsection_lookup",
+    "query": "What does Section 105 of the Transfer of Property Act define?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "TPA Sec 105 lease definition"
+  },
+  {
+    "query_id": "Q_018",
+    "query_type": "section_subsection_lookup",
+    "query": "What does Section 108 of the Transfer of Property Act lay down for lessor rights?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "TPA Sec 108 lessor rights"
+  },
+  {
+    "query_id": "Q_019",
+    "query_type": "section_subsection_lookup",
+    "query": "What does Section 14(2) of the Tamil Nadu Shops Act specify for deductions?",
+    "expected_evidence_chunks": [
+      "chk_f9a2e38b25bf"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "TN Shops Act Sec 14(2)"
+  },
+  {
+    "query_id": "Q_020",
+    "query_type": "section_subsection_lookup",
+    "query": "What does Section 60 of the Sale of Goods Act provide for anticipatory repudiation?",
+    "expected_evidence_chunks": [
+      "chk_72ff24737368"
+    ],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Sale of Goods Act Sec 60"
+  },
+  {
+    "query_id": "Q_021",
+    "query_type": "definition_query",
+    "query": "What is the statutory definition of a contract under Indian law?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "Contract definition"
+  },
+  {
+    "query_id": "Q_022",
+    "query_type": "definition_query",
+    "query": "How is 'goods' defined under the Sale of Goods Act, 1930?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Goods definition SGA"
+  },
+  {
+    "query_id": "Q_023",
+    "query_type": "definition_query",
+    "query": "What is the definition of 'person employed' under the Tamil Nadu Shops and Establishments Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "Person employed definition TN Shops"
+  },
+  {
+    "query_id": "Q_024",
+    "query_type": "definition_query",
+    "query": "How is 'patent' defined under Section 2 of the Patents Act, 1970?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1970-39"
+    ],
+    "expected_abstention": false,
+    "description": "Patent definition"
+  },
+  {
+    "query_id": "Q_025",
+    "query_type": "definition_query",
+    "query": "What is the definition of 'lease' under the Transfer of Property Act, 1882?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "Lease definition TPA"
+  },
+  {
+    "query_id": "Q_026",
+    "query_type": "definition_query",
+    "query": "How is 'unpaid seller' defined under the Sale of Goods Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Unpaid seller definition"
+  },
+  {
+    "query_id": "Q_027",
+    "query_type": "definition_query",
+    "query": "What constitutes a 'proposal' under the Indian Contract Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "Proposal definition ICA"
+  },
+  {
+    "query_id": "Q_028",
+    "query_type": "definition_query",
+    "query": "What is the statutory meaning of 'commercial establishment' under TN Shops Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "Commercial establishment definition"
+  },
+  {
+    "query_id": "Q_029",
+    "query_type": "definition_query",
+    "query": "What is defined as an 'anti-competitive agreement' under the Competition Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a2003-12"
+    ],
+    "expected_abstention": false,
+    "description": "Anti-competitive agreement definition"
+  },
+  {
+    "query_id": "Q_030",
+    "query_type": "definition_query",
+    "query": "How is 'market value' defined in the CGST Act under Section 73 context?",
+    "expected_evidence_chunks": [
+      "chk_e36e398d8aaf"
+    ],
+    "expected_documents": [
+      "a2017-12"
+    ],
+    "expected_abstention": false,
+    "description": "Market value definition CGST"
+  },
+  {
+    "query_id": "Q_031",
+    "query_type": "threshold_parameter_query",
+    "query": "What is the mandatory notice period for employee discharge under Tamil Nadu Shops Act?",
+    "expected_evidence_chunks": [
+      "chk_56b1160532cc"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "TN Shops notice period"
+  },
+  {
+    "query_id": "Q_032",
+    "query_type": "threshold_parameter_query",
+    "query": "What minimum continuous service period is required before Section 41 notice applies in TN Shops Act?",
+    "expected_evidence_chunks": [
+      "chk_56b1160532cc"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "TN Shops 6 months service threshold"
+  },
+  {
+    "query_id": "Q_033",
+    "query_type": "threshold_parameter_query",
+    "query": "What is the maximum limit on wage deduction under Section 14 of Tamil Nadu Shops Act?",
+    "expected_evidence_chunks": [
+      "chk_f9a2e38b25bf"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "TN Shops deduction limit"
+  },
+  {
+    "query_id": "Q_034",
+    "query_type": "threshold_parameter_query",
+    "query": "What is the statutory limitation period for filing suits for breach of contract?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1963-36"
+    ],
+    "expected_abstention": false,
+    "description": "Limitation Act breach period"
+  },
+  {
+    "query_id": "Q_035",
+    "query_type": "threshold_parameter_query",
+    "query": "What is the maximum duration of confidentiality obligation in standard NDA playbook?",
+    "expected_evidence_chunks": [
+      "chk_001536fcc3f4"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "NDA confidentiality duration threshold"
+  },
+  {
+    "query_id": "Q_036",
+    "query_type": "threshold_parameter_query",
+    "query": "What is the liability cap specified in mandatory contract clauses?",
+    "expected_evidence_chunks": [
+      "chk_80671d091ba6"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "Liability cap clause"
+  },
+  {
+    "query_id": "Q_037",
+    "query_type": "threshold_parameter_query",
+    "query": "How many days notice is required before closing a shop under Section 11 of TN Shops Act?",
+    "expected_evidence_chunks": [
+      "chk_e35cbc33e494"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "TN Shops closing notice days"
+  },
+  {
+    "query_id": "Q_038",
+    "query_type": "threshold_parameter_query",
+    "query": "What is the statutory period for patent protection under the Patents Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1970-39"
+    ],
+    "expected_abstention": false,
+    "description": "Patent term threshold"
+  },
+  {
+    "query_id": "Q_039",
+    "query_type": "threshold_parameter_query",
+    "query": "What monetary fine applies for non-display of weekly holiday notice under TN Shops Rules?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "Tamil Nadu Shops Rules"
+    ],
+    "expected_abstention": false,
+    "description": "TN Shops penalty fine threshold"
+  },
+  {
+    "query_id": "Q_040",
+    "query_type": "threshold_parameter_query",
+    "query": "What is the age threshold for employment of young persons under TN Shops Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "Young person age threshold"
+  },
+  {
+    "query_id": "Q_041",
+    "query_type": "obligation_query",
+    "query": "What are the statutory obligations of a shop employer regarding weekly holidays?",
+    "expected_evidence_chunks": [
+      "chk_e0b28f8cd3e2"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "Employer weekly holiday obligations"
+  },
+  {
+    "query_id": "Q_042",
+    "query_type": "obligation_query",
+    "query": "What obligations does a recipient of confidential information have under an NDA?",
+    "expected_evidence_chunks": [
+      "chk_28e9248468e6"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "NDA confidentiality obligation"
+  },
+  {
+    "query_id": "Q_043",
+    "query_type": "obligation_query",
+    "query": "What are the legal obligations of a seller regarding delivery of goods?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Seller delivery obligations SGA"
+  },
+  {
+    "query_id": "Q_044",
+    "query_type": "obligation_query",
+    "query": "What duties does a tenant/lessee have under Section 108 of Transfer of Property Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "Lessee duties TPA"
+  },
+  {
+    "query_id": "Q_045",
+    "query_type": "obligation_query",
+    "query": "What must an employer do before dispensing with employee services under TN Shops Act?",
+    "expected_evidence_chunks": [
+      "chk_56b1160532cc"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "Employer discharge obligations"
+  },
+  {
+    "query_id": "Q_046",
+    "query_type": "obligation_query",
+    "query": "What obligations apply regarding employee non-solicitation in contract playbooks?",
+    "expected_evidence_chunks": [
+      "chk_a238e8a1af24"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "Non-solicitation obligation"
+  },
+  {
+    "query_id": "Q_047",
+    "query_type": "obligation_query",
+    "query": "What is a party's obligation to mitigate loss upon breach under Section 73 of ICA?",
+    "expected_evidence_chunks": [
+      "chk_6c2b46f4b321"
+    ],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "Mitigation obligation ICA 73"
+  },
+  {
+    "query_id": "Q_048",
+    "query_type": "obligation_query",
+    "query": "What obligations exist for displaying shop closing hours under Section 11 of TN Shops Act?",
+    "expected_evidence_chunks": [
+      "chk_e35cbc33e494"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "Display notice obligation"
+  },
+  {
+    "query_id": "Q_049",
+    "query_type": "obligation_query",
+    "query": "What obligations apply to a patentee regarding working of patents in India?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1970-39"
+    ],
+    "expected_abstention": false,
+    "description": "Patent working obligation"
+  },
+  {
+    "query_id": "Q_050",
+    "query_type": "obligation_query",
+    "query": "What are the mandatory obligations in an NDA regarding IP rights transfer?",
+    "expected_evidence_chunks": [
+      "chk_9d1812168426"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "IP transfer obligation NDA"
+  },
+  {
+    "query_id": "Q_051",
+    "query_type": "breach_remedy_query",
+    "query": "What happens if the seller breaches the contract?",
+    "expected_evidence_chunks": [
+      "chk_01051fb4680e",
+      "chk_e83012ad27b7",
+      "chk_72ff24737368"
+    ],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Seller breach remedies SGA"
+  },
+  {
+    "query_id": "Q_052",
+    "query_type": "breach_remedy_query",
+    "query": "What remedies are available to a buyer for breach of warranty under Section 59 of SGA?",
+    "expected_evidence_chunks": [
+      "chk_01051fb4680e"
+    ],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Breach of warranty remedy Sec 59"
+  },
+  {
+    "query_id": "Q_053",
+    "query_type": "breach_remedy_query",
+    "query": "What compensation can be claimed for loss or damage caused by breach of contract under Section 73?",
+    "expected_evidence_chunks": [
+      "chk_6c2b46f4b321"
+    ],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "ICA Sec 73 breach compensation"
+  },
+  {
+    "query_id": "Q_054",
+    "query_type": "breach_remedy_query",
+    "query": "What remedies exist when a party repudiates the contract before the due date under Section 60?",
+    "expected_evidence_chunks": [
+      "chk_72ff24737368"
+    ],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Anticipatory repudiation remedy Sec 60"
+  },
+  {
+    "query_id": "Q_055",
+    "query_type": "breach_remedy_query",
+    "query": "What remedy does a buyer have for non-delivery of goods under Section 54 of SGA?",
+    "expected_evidence_chunks": [
+      "chk_e83012ad27b7"
+    ],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Non-delivery suit Sec 54"
+  },
+  {
+    "query_id": "Q_056",
+    "query_type": "breach_remedy_query",
+    "query": "What remedies are specified for unauthorized disclosure of confidential data in contract playbooks?",
+    "expected_evidence_chunks": [
+      "chk_5a51e3701c6a"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "NDA breach remedies clause"
+  },
+  {
+    "query_id": "Q_057",
+    "query_type": "breach_remedy_query",
+    "query": "What compensation is payable for breach of contract where penalty is stipulated under Section 74 of ICA?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "Stipulated penalty compensation Sec 74"
+  },
+  {
+    "query_id": "Q_058",
+    "query_type": "breach_remedy_query",
+    "query": "What rights does an unpaid seller have upon buyer's breach?",
+    "expected_evidence_chunks": [
+      "chk_e6886e9c6c83"
+    ],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Unpaid seller remedies SGA"
+  },
+  {
+    "query_id": "Q_059",
+    "query_type": "breach_remedy_query",
+    "query": "What remedy is available if an employer illegally dismisses an employee under TN Shops Act?",
+    "expected_evidence_chunks": [
+      "chk_56b1160532cc"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "Appeals against illegal dismissal Sec 41"
+  },
+  {
+    "query_id": "Q_060",
+    "query_type": "breach_remedy_query",
+    "query": "How are damages calculated for failure to deliver goods in commercial contracts?",
+    "expected_evidence_chunks": [
+      "chk_6c2b46f4b321"
+    ],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "Damages calculation measure"
+  },
+  {
+    "query_id": "Q_061",
+    "query_type": "termination_query",
+    "query": "What are the legal grounds for terminating an employee under Tamil Nadu Shops Act?",
+    "expected_evidence_chunks": [
+      "chk_56b1160532cc"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "Employee termination grounds"
+  },
+  {
+    "query_id": "Q_062",
+    "query_type": "termination_query",
+    "query": "How can a contract of agency be terminated under the Indian Contract Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "Agency termination ICA Sec 201"
+  },
+  {
+    "query_id": "Q_063",
+    "query_type": "termination_query",
+    "query": "What termination rights apply for convenience under NDA contract playbooks?",
+    "expected_evidence_chunks": [
+      "chk_c1e58209905d"
+    ],
+    "expected_documents": [
+      "Negotiation Playbook"
+    ],
+    "expected_abstention": false,
+    "description": "NDA unilateral termination modifier"
+  },
+  {
+    "query_id": "Q_064",
+    "query_type": "termination_query",
+    "query": "What happens to confidentiality obligations upon termination of agreement?",
+    "expected_evidence_chunks": [
+      "chk_001536fcc3f4"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "Confidentiality post-termination"
+  },
+  {
+    "query_id": "Q_065",
+    "query_type": "termination_query",
+    "query": "How is a lease of immovable property terminated under Section 111 of TPA?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "Lease termination TPA Sec 111"
+  },
+  {
+    "query_id": "Q_066",
+    "query_type": "termination_query",
+    "query": "What notice is required for terminating a periodic tenancy?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "Tenancy termination notice"
+  },
+  {
+    "query_id": "Q_067",
+    "query_type": "termination_query",
+    "query": "Can an employer terminate an employee without notice for misconduct under TN Shops Act?",
+    "expected_evidence_chunks": [
+      "chk_56b1160532cc"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "Misconduct termination without notice"
+  },
+  {
+    "query_id": "Q_068",
+    "query_type": "termination_query",
+    "query": "What remedies follow wrongful termination of employment under statutory acts?",
+    "expected_evidence_chunks": [
+      "chk_56b1160532cc"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "Wrongful termination statutory remedy"
+  },
+  {
+    "query_id": "Q_069",
+    "query_type": "confidentiality_nda_query",
+    "query": "What are the mandatory clauses in an NDA agreement?",
+    "expected_evidence_chunks": [
+      "chk_9d1812168426",
+      "chk_a238e8a1af24",
+      "chk_28e9248468e6"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses",
+      "Negotiation Playbook"
+    ],
+    "expected_abstention": false,
+    "description": "NDA mandatory clauses"
+  },
+  {
+    "query_id": "Q_070",
+    "query_type": "confidentiality_nda_query",
+    "query": "Does an NDA transfer intellectual property rights between parties?",
+    "expected_evidence_chunks": [
+      "chk_9d1812168426"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "NDA IP transfer prohibition"
+  },
+  {
+    "query_id": "Q_071",
+    "query_type": "confidentiality_nda_query",
+    "query": "What clause governs employee non-solicitation in standard NDA agreements?",
+    "expected_evidence_chunks": [
+      "chk_a238e8a1af24"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "NDA non-solicitation clause"
+  },
+  {
+    "query_id": "Q_072",
+    "query_type": "confidentiality_nda_query",
+    "query": "How is client data confidentiality protected under NDA mandatory playbooks?",
+    "expected_evidence_chunks": [
+      "chk_28e9248468e6"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "NDA client data confidentiality"
+  },
+  {
+    "query_id": "Q_073",
+    "query_type": "confidentiality_nda_query",
+    "query": "What happens if third-party confidential information is disclosed under an NDA?",
+    "expected_evidence_chunks": [
+      "chk_327616a74c70"
+    ],
+    "expected_documents": [
+      "Negotiation Playbook"
+    ],
+    "expected_abstention": false,
+    "description": "Third-party NDA info coverage"
+  },
+  {
+    "query_id": "Q_074",
+    "query_type": "confidentiality_nda_query",
+    "query": "Can an NDA agreement be assigned without prior written consent?",
+    "expected_evidence_chunks": [
+      "chk_07c289917376"
+    ],
+    "expected_documents": [
+      "Negotiation Playbook"
+    ],
+    "expected_abstention": false,
+    "description": "NDA assignability clause"
+  },
+  {
+    "query_id": "Q_075",
+    "query_type": "confidentiality_nda_query",
+    "query": "What dispute resolution mechanism is mandatory in NDA playbooks?",
+    "expected_evidence_chunks": [
+      "chk_550941e70ca5"
+    ],
+    "expected_documents": [
+      "Negotiation Playbook"
+    ],
+    "expected_abstention": false,
+    "description": "NDA dispute resolution clause"
+  },
+  {
+    "query_id": "Q_076",
+    "query_type": "confidentiality_nda_query",
+    "query": "What remedies apply for unauthorized disclosure of confidential materials?",
+    "expected_evidence_chunks": [
+      "chk_5a51e3701c6a"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "NDA unauthorized disclosure remedy"
+  },
+  {
+    "query_id": "Q_077",
+    "query_type": "ip_query",
+    "query": "What rights does a patent holder enjoy under Section 48 of the Patents Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1970-39"
+    ],
+    "expected_abstention": false,
+    "description": "Patentee rights Sec 48"
+  },
+  {
+    "query_id": "Q_078",
+    "query_type": "ip_query",
+    "query": "Does signing an NDA automatically grant a license to patents or IP?",
+    "expected_evidence_chunks": [
+      "chk_9d1812168426"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "No IP license under NDA"
+  },
+  {
+    "query_id": "Q_079",
+    "query_type": "ip_query",
+    "query": "What acts do not constitute patent infringement under Section 107A of Patents Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1970-39"
+    ],
+    "expected_abstention": false,
+    "description": "Bolar provision patent non-infringement"
+  },
+  {
+    "query_id": "Q_080",
+    "query_type": "ip_query",
+    "query": "How are compulsory licenses granted under the Patents Act, 1970?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1970-39"
+    ],
+    "expected_abstention": false,
+    "description": "Compulsory patent license"
+  },
+  {
+    "query_id": "Q_081",
+    "query_type": "ip_query",
+    "query": "What is the requirement for patent specifications under Section 10 of Patents Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1970-39"
+    ],
+    "expected_abstention": false,
+    "description": "Patent specification requirement"
+  },
+  {
+    "query_id": "Q_082",
+    "query_type": "ip_query",
+    "query": "How is copyright ownership treated in commercial contract playbooks?",
+    "expected_evidence_chunks": [
+      "chk_9d1812168426"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "Copyright ownership contract playbook"
+  },
+  {
+    "query_id": "Q_083",
+    "query_type": "ip_query",
+    "query": "What constitutes patent surrender under Section 63 of the Patents Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1970-39"
+    ],
+    "expected_abstention": false,
+    "description": "Patent surrender Sec 63"
+  },
+  {
+    "query_id": "Q_084",
+    "query_type": "ip_query",
+    "query": "What remedies exist for groundless threats of patent infringement proceedings?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1970-39"
+    ],
+    "expected_abstention": false,
+    "description": "Groundless threat patent remedy"
+  },
+  {
+    "query_id": "Q_085",
+    "query_type": "lease_query",
+    "query": "What is the definition of a lease under Section 105 of Transfer of Property Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "TPA Sec 105 lease definition"
+  },
+  {
+    "query_id": "Q_086",
+    "query_type": "lease_query",
+    "query": "What are the rights and liabilities of a lessor under Section 108 of TPA?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "Lessor rights liabilities TPA"
+  },
+  {
+    "query_id": "Q_087",
+    "query_type": "lease_query",
+    "query": "What are the rights and liabilities of a lessee under Section 108 of TPA?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "Lessee rights liabilities TPA"
+  },
+  {
+    "query_id": "Q_088",
+    "query_type": "lease_query",
+    "query": "How is a lease of immovable property made under Section 107 of TPA?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "Mode of making lease TPA Sec 107"
+  },
+  {
+    "query_id": "Q_089",
+    "query_type": "lease_query",
+    "query": "When does a lease of immovable property determine under Section 111 of TPA?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "Determination of lease TPA Sec 111"
+  },
+  {
+    "query_id": "Q_090",
+    "query_type": "lease_query",
+    "query": "What is the effect of holding over by a lessee after lease expiry under Section 116 of TPA?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "Holding over lessee TPA Sec 116"
+  },
+  {
+    "query_id": "Q_091",
+    "query_type": "lease_query",
+    "query": "What notice is required to terminate a lease from month to month under TPA?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "Month to month lease notice TPA"
+  },
+  {
+    "query_id": "Q_092",
+    "query_type": "lease_query",
+    "query": "What is forfeiture of lease under Section 111(g) of Transfer of Property Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "Forfeiture of lease TPA Sec 111(g)"
+  },
+  {
+    "query_id": "Q_093",
+    "query_type": "vendor_query",
+    "query": "What rights does an unpaid seller have against goods under Sale of Goods Act?",
+    "expected_evidence_chunks": [
+      "chk_e6886e9c6c83"
+    ],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Unpaid seller rights SGA"
+  },
+  {
+    "query_id": "Q_094",
+    "query_type": "vendor_query",
+    "query": "What limitation of liability caps apply in vendor service contracts?",
+    "expected_evidence_chunks": [
+      "chk_80671d091ba6"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "Vendor liability cap clause"
+  },
+  {
+    "query_id": "Q_095",
+    "query_type": "vendor_query",
+    "query": "When does property in goods pass from seller to buyer under SGA?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Passing of property SGA"
+  },
+  {
+    "query_id": "Q_096",
+    "query_type": "vendor_query",
+    "query": "What is an unpaid seller's right of lien under Section 47 of SGA?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Unpaid seller lien Sec 47"
+  },
+  {
+    "query_id": "Q_097",
+    "query_type": "vendor_query",
+    "query": "What is stoppage in transit under Section 50 of Sale of Goods Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Stoppage in transit Sec 50"
+  },
+  {
+    "query_id": "Q_098",
+    "query_type": "vendor_query",
+    "query": "What are the rules regarding delivery of goods by vendor under SGA?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Delivery of goods rules SGA"
+  },
+  {
+    "query_id": "Q_099",
+    "query_type": "vendor_query",
+    "query": "What happens if a vendor supplies defective goods under breach of warranty?",
+    "expected_evidence_chunks": [
+      "chk_01051fb4680e"
+    ],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Vendor defective goods warranty breach"
+  },
+  {
+    "query_id": "Q_100",
+    "query_type": "vendor_query",
+    "query": "What remedies does a vendor have if buyer refuses to accept goods?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Vendor remedy for non-acceptance"
+  },
+  {
+    "query_id": "Q_101",
+    "query_type": "multi_document_query",
+    "query": "How do breach of contract remedies under Indian Contract Act compare with Sale of Goods Act?",
+    "expected_evidence_chunks": [
+      "chk_6c2b46f4b321",
+      "chk_01051fb4680e"
+    ],
+    "expected_documents": [
+      "a187209",
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "ICA vs SGA breach comparison"
+  },
+  {
+    "query_id": "Q_102",
+    "query_type": "multi_document_query",
+    "query": "What are the combined notice requirements for employee discharge under Tamil Nadu Shops Act and Rules?",
+    "expected_evidence_chunks": [
+      "chk_56b1160532cc"
+    ],
+    "expected_documents": [
+      "1637820824",
+      "Tamil Nadu Shops Rules"
+    ],
+    "expected_abstention": false,
+    "description": "TN Shops Act + Rules notice requirements"
+  },
+  {
+    "query_id": "Q_103",
+    "query_type": "multi_document_query",
+    "query": "What mandatory clauses and playbook rules govern NDA confidentiality agreements?",
+    "expected_evidence_chunks": [
+      "chk_9d1812168426",
+      "chk_550941e70ca5"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses",
+      "Negotiation Playbook"
+    ],
+    "expected_abstention": false,
+    "description": "Mandatory Clauses + Playbook rules"
+  },
+  {
+    "query_id": "Q_104",
+    "query_type": "multi_document_query",
+    "query": "How is transfer of property regulated under TPA and Indian Contract Act?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04",
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "TPA + ICA contract property transfer"
+  },
+  {
+    "query_id": "Q_105",
+    "query_type": "multi_document_query",
+    "query": "What statutory limitation periods apply to contract breach suits under Limitation Act and ICA?",
+    "expected_evidence_chunks": [
+      "chk_6c2b46f4b321"
+    ],
+    "expected_documents": [
+      "a1963-36",
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "Limitation Act + ICA breach limitation"
+  },
+  {
+    "query_id": "Q_106",
+    "query_type": "cross_reference_query",
+    "query": "What sections are referenced under Section 73 of the Indian Contract Act?",
+    "expected_evidence_chunks": [
+      "chk_82e9fdafc02a"
+    ],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "ICA Sec 73 cross references"
+  },
+  {
+    "query_id": "Q_107",
+    "query_type": "cross_reference_query",
+    "query": "When can a breach of condition be treated as a breach of warranty under Section 13 of SGA?",
+    "expected_evidence_chunks": [
+      "chk_6790f90cb6cc"
+    ],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "SGA Sec 13 condition treated as warranty"
+  },
+  {
+    "query_id": "Q_108",
+    "query_type": "cross_reference_query",
+    "query": "What cross-references exist between Section 41 and Section 43 of TN Shops Act?",
+    "expected_evidence_chunks": [
+      "chk_56b1160532cc"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "TN Shops Sec 41 and 43 cross refs"
+  },
+  {
+    "query_id": "Q_109",
+    "query_type": "cross_reference_query",
+    "query": "What provisions of Indian Contract Act are referenced in Sale of Goods Act Section 3?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "SGA Sec 3 reference to ICA"
+  },
+  {
+    "query_id": "Q_110",
+    "query_type": "cross_reference_query",
+    "query": "How does Section 73 of CGST Act reference Section 74 or 74A?",
+    "expected_evidence_chunks": [
+      "chk_d004db173200"
+    ],
+    "expected_documents": [
+      "a2017-12"
+    ],
+    "expected_abstention": false,
+    "description": "CGST Sec 73 cross ref Sec 74"
+  },
+  {
+    "query_id": "Q_111",
+    "query_type": "ambiguous_query",
+    "query": "What happens if a contract is broken?",
+    "expected_evidence_chunks": [
+      "chk_6c2b46f4b321",
+      "chk_01051fb4680e"
+    ],
+    "expected_documents": [
+      "a187209",
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Ambiguous: contract broken"
+  },
+  {
+    "query_id": "Q_112",
+    "query_type": "ambiguous_query",
+    "query": "Can an employee be fired immediately?",
+    "expected_evidence_chunks": [
+      "chk_56b1160532cc"
+    ],
+    "expected_documents": [
+      "1637820824"
+    ],
+    "expected_abstention": false,
+    "description": "Ambiguous: fired immediately"
+  },
+  {
+    "query_id": "Q_113",
+    "query_type": "ambiguous_query",
+    "query": "What are the rules for secret information?",
+    "expected_evidence_chunks": [
+      "chk_28e9248468e6"
+    ],
+    "expected_documents": [
+      "Mandatory Clauses"
+    ],
+    "expected_abstention": false,
+    "description": "Ambiguous: secret info rules"
+  },
+  {
+    "query_id": "Q_114",
+    "query_type": "ambiguous_query",
+    "query": "What is the penalty for default?",
+    "expected_evidence_chunks": [
+      "chk_6c2b46f4b321"
+    ],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "Ambiguous: penalty for default"
+  },
+  {
+    "query_id": "Q_115",
+    "query_type": "ambiguous_query",
+    "query": "How do I cancel a lease?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1882-04"
+    ],
+    "expected_abstention": false,
+    "description": "Ambiguous: cancel lease"
+  },
+  {
+    "query_id": "Q_116",
+    "query_type": "out_of_corpus_abstention",
+    "query": "What is the capital of France?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [],
+    "expected_abstention": true,
+    "description": "Out-of-corpus: Paris geography"
+  },
+  {
+    "query_id": "Q_117",
+    "query_type": "out_of_corpus_abstention",
+    "query": "What are the statutory copyright infringement penalties under US Copyright Act 1976?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [],
+    "expected_abstention": true,
+    "description": "Out-of-corpus: US Copyright Act"
+  },
+  {
+    "query_id": "Q_118",
+    "query_type": "out_of_corpus_abstention",
+    "query": "What is the maximum speed limit on urban highways in Tokyo, Japan?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [],
+    "expected_abstention": true,
+    "description": "Out-of-corpus: Tokyo traffic laws"
+  },
+  {
+    "query_id": "Q_119",
+    "query_type": "out_of_corpus_abstention",
+    "query": "How is corporate income tax calculated under the UK Corporation Tax Act 2010?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [],
+    "expected_abstention": true,
+    "description": "Out-of-corpus: UK Tax Law"
+  },
+  {
+    "query_id": "Q_120",
+    "query_type": "out_of_corpus_abstention",
+    "query": "What is the medical procedure for treating acute appendicitis under NHS guidelines?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [],
+    "expected_abstention": true,
+    "description": "Out-of-corpus: NHS medical guidelines"
+  },
+  {
+    "query_id": "Q_121",
+    "query_type": "version_currentness_query",
+    "query": "Which Act governs Central Goods and Services Tax enacted in 2017?",
+    "expected_evidence_chunks": [
+      "chk_e63c3a9b924c"
+    ],
+    "expected_documents": [
+      "a2017-12"
+    ],
+    "expected_abstention": false,
+    "description": "CGST Act 2017 version"
+  },
+  {
+    "query_id": "Q_122",
+    "query_type": "version_currentness_query",
+    "query": "Which statutory rules govern Tamil Nadu Shops and Establishments enacted in 1948?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "Tamil Nadu Shops Rules"
+    ],
+    "expected_abstention": false,
+    "description": "TN Shops Rules 1948 version"
+  },
+  {
+    "query_id": "Q_123",
+    "query_type": "version_currentness_query",
+    "query": "Which statutory Act governs limitation of legal suits enacted in 1963?",
+    "expected_evidence_chunks": [],
+    "expected_documents": [
+      "a1963-36"
+    ],
+    "expected_abstention": false,
+    "description": "Limitation Act 1963 version"
+  },
+  {
+    "query_id": "Q_124",
+    "query_type": "version_currentness_query",
+    "query": "Which statutory Act governs Indian contract law enacted in 1872?",
+    "expected_evidence_chunks": [
+      "chk_6c2b46f4b321"
+    ],
+    "expected_documents": [
+      "a187209"
+    ],
+    "expected_abstention": false,
+    "description": "Indian Contract Act 1872 version"
+  },
+  {
+    "query_id": "Q_125",
+    "query_type": "version_currentness_query",
+    "query": "Which statutory Act governs sale of goods transactions enacted in 1930?",
+    "expected_evidence_chunks": [
+      "chk_01051fb4680e"
+    ],
+    "expected_documents": [
+      "193003"
+    ],
+    "expected_abstention": false,
+    "description": "Sale of Goods Act 1930 version"
+  }
+]
